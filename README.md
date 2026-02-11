@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=Cybersecurity+Engineer+in+Training" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=lime&size=25&center=true&vCenter=true&width=700&height=100&lines=Cybersecurity+Engineer+in+Training" />
   </a>
 </div>
 
@@ -28,8 +28,6 @@ I’m currently enhancing my CCTV network simulation by incorporating secured pr
 - **Short-term**: Secure an internship in Cybersecurity Auditing—I love the diverse challenges it offers.
 - **Long-term**: Aim for a role at a major tech company in their Network and Cybersecurity Department while developing my entrepreneurial projects.
 
-## 🏋️ Fun Fact
+## 🏋️ Fun Facts
 I may not look it, but I was a daily gym-goer until my senior year of high school! I’d love to find a company that encourages sports among its team members.
-
----
-
+I have a Toeic B2 English certificate which is mandatory for Engineering students in France for them to get a diploma at the end of their studies, but I also have a DALF C1 French certificate which I absolutely have no need to in any way whatsoever. I can't even use it to flex on people.
