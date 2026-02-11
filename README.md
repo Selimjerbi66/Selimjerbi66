@@ -28,5 +28,8 @@ I’m currently enhancing my CCTV network simulation by incorporating secured pr
 - **Short-term**: Secure an internship in Cybersecurity Auditing—I love the diverse challenges it offers.
 - **Long-term**: Aim for a role at a major tech company in their Network and Cybersecurity Department while developing my entrepreneurial projects.
 
+## 🚀 Entrepreneurship
+I'm currently developing a project called *PrestTeam: The Freelancing of Tomorrow*, a platform designed to encourage teamwork and ease entry into the professional world. Under the guidance of Pépite BFC, I’m working on both the front end and back end, with plans to publish and officially register the company in the near future.
+
 ## 🏋️ Fun Fact
 I may not look it, but I was a daily gym-goer until my senior year of high school! I’d love to find a company that encourages sports among its team members.
