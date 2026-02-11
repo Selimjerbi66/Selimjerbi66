@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzlyc2UxaHBkdGFlczd1Z3hnN2V5Z2NkZ3ByNHpmZWwzZ3JmZmZ1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" />
 </div>
 
 <h1 align="center">Hi there! 👋 I'm Selim</h1>
