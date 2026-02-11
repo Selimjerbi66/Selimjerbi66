@@ -33,8 +33,3 @@ I may not look it, but I was a daily gym-goer until my senior year of high schoo
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=algolia" height="200" alt="GitHub Stats" />
-</div>
-
----
