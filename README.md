@@ -20,6 +20,7 @@ I'm currently diving into CCNA and Cybersecurity Analyst certifications. I'm wel
 - **CCTV Network Simulation Software**: Developed during my internship at ImViA, this tool analyzes camera setups in environments to enhance connectivity and visual coverage.
 - **Online Calculator**: Part of a cloud computing project that sharpened my coding skills.
 - **Virtual Remote Control for Robotics**: Created a remote control for a Marty-type robot, merging my love for tech with hands-on robotics.
+- **Bithday Attack Algorithm**: Explained the Birthday Paradox and how it was used to develop the Birthday Attack algorithm using a website-interface.
 
 ## 🌟 What’s Next?
 I’m currently enhancing my CCTV network simulation by incorporating secured protocols to prevent breaches and data theft. I'm planning to take the Cisco CyberOps course when time allows.
