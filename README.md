@@ -33,7 +33,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CCNA%201-Acquired-brightgreen" alt="CCNA 1: Acquired" />
+  <img src="https://img.shields.io/badge/CCNA-1%2F3%20Acquired-brightgreen" alt="CCNA : 1/3 Acquired" style="pointer-events:none;" />
   <img src="https://img.shields.io/badge/Junior%20Cybersecurity%20Analyst-Loading-yellow" alt="Junior Cybersecurity Analyst: Loading" />
   <img src="https://img.shields.io/badge/Prevention%20SUP%27-Acquired-brightgreen" alt="Prevention SUP': Acquired" />
   <img src="https://img.shields.io/badge/SNEE-Acquired-brightgreen" alt="SNEE: Acquired" />
