@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzlyc2UxaHBkdGFlczd1Z3hnN2V5Z2NkZ3ByNHpmZWwzZ3JmZmZ1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" alt="Animated intro gif" />
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzlyc2UxaHBkdGFlczd1Z3hnN2V5Z2NkZ3ByNHpmZWwzZ3JmZmZ1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif"  />
 </div>
 
 <h1 align="center">Hi there! 👋 I'm Selim</h1>
@@ -10,17 +10,25 @@
   </a>
 </div>
 
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&center=true&width=600&height=40&lines=Network;Software+Engineering;AI;DevOps" alt="Typing animation: Network • Software Engineering • AI • DevOps" />
+  <a href="https://www.credly.com/badges/46c112d6-3f1c-41c6-ab35-5803e6f94fb8" target="_blank" rel="noopener">
+    <img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="CCNA: Introduction to Networks (Credly)" width="96" />
+  </a>&nbsp;
+  <a href="https://www.credly.com/badges/3e28c407-e4eb-4cfd-88e8-ee16f2ee276d" target="_blank" rel="noopener">
+    <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Cisco Introduction to Cybersecurity (Credly)" width="96" />
+  </a>&nbsp;
+  <a href="https://www.credly.com/badges/e8f58d7e-add5-4bcd-86e8-e74fe60c2647" target="_blank" rel="noopener">
+    <img src="https://images.credly.com/size/680x680/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Cisco Networking Basics (Credly)" width="96" />
+  </a>
 </div>
 
 <div align="center">
-  <!-- Badges row -->
-  <img src="https://img.shields.io/badge/Open%20to%20work-Yes-brightgreen" alt="Open to work" />&nbsp;
-  <img src="https://img.shields.io/badge/CCNA-Studying-orange" alt="CCNA" />&nbsp;
-  <img src="https://img.shields.io/badge/Cybersecurity-Analyst-blue" alt="Cybersecurity Analyst" />&nbsp;
-  <img src="https://img.shields.io/badge/Languages-Python%20%7C%20C%20%7C%20Bash-lightgrey" alt="Languages" />&nbsp;
-  <img src="https://img.shields.io/badge/Last%20updated-2026--02--15%20(manual)-informational" alt="Last updated" />
+  <!-- Custom status badges -->
+  <img src="https://img.shields.io/badge/CCNA%201-Acquired-brightgreen" alt="CCNA 1: Acquired" />&nbsp;
+  <img src="https://img.shields.io/badge/Junior%20Cybersecurity%20Analyst-Loading-yellow" alt="Junior Cybersecurity Analyst: Loading" />&nbsp;
+  <img src="https://img.shields.io/badge/Prevention%20SUP%27-Acquired-brightgreen" alt="Prevention SUP': Acquired" />&nbsp;
+  <img src="https://img.shields.io/badge/SNEE-Acquired-brightgreen" alt="SNEE: Acquired" />
 </div>
 
 ---
@@ -31,25 +39,12 @@ I'm an Engineering Student at Polytech Dijon, specializing in Cybersecurity. I�
 ## 🔍 Skills & Certifications
 I'm currently diving into CCNA and Cybersecurity Analyst certifications. I'm well-versed in network systems and have a solid understanding of Systems Management and Cloud Computing. My true passion? Cybersecurity and Network Management!
 
-<!-- Animated SVG divider (subtle) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/idleberg/animated-separators/main/line-left-right.svg" alt="separator" />
-</div>
 
-## 💻 Projects I'm Proud Of
+## 💻 Projects
 - **CCTV Network Simulation Software**: Developed during my internship at ImViA, this tool analyzes camera setups in environments to enhance connectivity and visual coverage.
 - **Online Calculator**: Part of a cloud computing project that sharpened my coding skills.
 - **Virtual Remote Control for Robotics**: Created a remote control for a Marty-type robot, merging my love for tech with hands-on robotics.
 - **Birthday Attack Algorithm**: Explained the Birthday Paradox and how it was used to develop the Birthday Attack algorithm using a website-interface.
-
-<!-- Tech stack icons (small) -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="28" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="28" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="28" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="28" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="28" />
-</div>
 
 ## 🌟 What’s Next?
 I’m currently enhancing my CCTV network simulation by incorporating secured protocols to prevent breaches and data theft. I'm planning to take the Cisco CyberOps course when time allows.
@@ -60,16 +55,10 @@ I’m currently enhancing my CCTV network simulation by incorporating secured pr
 
 ## 🚀 Entrepreneurship
 I'm currently developing a project called *PrestTeam: The Freelancing of Tomorrow*, a platform designed to encourage teamwork and ease entry into the professional world. Under the guidance of Pépite BFC, I’m working on both the front end and back end, with plans to publish and officially register the company in the near future.  
-[Join PrestTeam / Contact me](mailto:YOUR_EMAIL_HERE?subject=PrestTeam%20Interest) • [LinkedIn](YOUR_LINKEDIN_URL)
 
 ---
 
-<!-- GitHub Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=algolia" alt="GitHub Stats" height="160" />
-</div>
-
----
 
 ## 🏋️ Fun Fact
 I may not look it, but I was a daily gym-goer until my senior year of high school! I’d love to find a company that encourages sports among its team members.
+
