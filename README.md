@@ -11,25 +11,34 @@
 </div>
 
 
-<div align="center">
-  <a href="https://www.credly.com/badges/46c112d6-3f1c-41c6-ab35-5803e6f94fb8" target="_blank" rel="noopener">
-    <img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="CCNA: Introduction to Networks (Credly)" width="96" />
-  </a>&nbsp;
-  <a href="https://www.credly.com/badges/3e28c407-e4eb-4cfd-88e8-ee16f2ee276d" target="_blank" rel="noopener">
-    <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Cisco Introduction to Cybersecurity (Credly)" width="96" />
-  </a>&nbsp;
-  <a href="https://www.credly.com/badges/e8f58d7e-add5-4bcd-86e8-e74fe60c2647" target="_blank" rel="noopener">
-    <img src="https://images.credly.com/size/680x680/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Cisco Networking Basics (Credly)" width="96" />
+<p align="center">
+  <a href="https://www.credly.com/badges/46c112d6-3f1c-41c6-ab35-5803e6f94fb8">
+    <img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png"
+         alt="CCNA: Introduction to Networks"
+         width="100" />
   </a>
-</div>
+  
+  <a href="https://www.credly.com/badges/3e28c407-e4eb-4cfd-88e8-ee16f2ee276d">
+    <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png"
+         alt="Cisco Introduction to Cybersecurity"
+         width="100" />
+  </a>
+  
+  <a href="https://www.credly.com/badges/e8f58d7e-add5-4bcd-86e8-e74fe60c2647">
+    <img src="https://images.credly.com/size/680x680/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png"
+         alt="Cisco Networking Basics"
+         width="100" />
+  </a>
+</p>
 
-<div align="center">
-  <!-- Custom status badges -->
-  <img src="https://img.shields.io/badge/CCNA%201-Acquired-brightgreen" alt="CCNA 1: Acquired" />&nbsp;
-  <img src="https://img.shields.io/badge/Junior%20Cybersecurity%20Analyst-Loading-yellow" alt="Junior Cybersecurity Analyst: Loading" />&nbsp;
-  <img src="https://img.shields.io/badge/Prevention%20SUP%27-Acquired-brightgreen" alt="Prevention SUP': Acquired" />&nbsp;
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CCNA%201-Acquired-brightgreen" alt="CCNA 1: Acquired" />
+  <img src="https://img.shields.io/badge/Junior%20Cybersecurity%20Analyst-Loading-yellow" alt="Junior Cybersecurity Analyst: Loading" />
+  <img src="https://img.shields.io/badge/Prevention%20SUP%27-Acquired-brightgreen" alt="Prevention SUP': Acquired" />
   <img src="https://img.shields.io/badge/SNEE-Acquired-brightgreen" alt="SNEE: Acquired" />
-</div>
+</p>
+
 
 ---
 
