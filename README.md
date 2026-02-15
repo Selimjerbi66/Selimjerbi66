@@ -5,8 +5,11 @@
 <h1 align="center">Hi there! 👋 I'm Selim</h1>
 
 <div align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00FF00&size=25&center=true&vCenter=true&width=700&height=100&lines=Cybersecurity+Engineer+in+Training" alt="Typing animation: Cybersecurity Engineer in Training" />
+  <a href="https://learningnetwork.cisco.com/s/profile/005QO00000CyhZRYAZ" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00FF00&size=25&center=true&vCenter=true&width=700&height=100&lines=Cybersecurity+Engineer+in+Training"
+      alt="Typing animation: Cybersecurity Engineer in Training"
+    />
   </a>
 </div>
 
