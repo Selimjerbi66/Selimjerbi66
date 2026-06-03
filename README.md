@@ -140,6 +140,9 @@ Engineering Student at **Polytech Dijon**, specializing in Cybersecurity. A life
   </a>&nbsp;&nbsp;
   <a href="mailto:selimjerbi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Email" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/users/selim-jerbi/badges">
+    <img src="https://img.shields.io/badge/Credly-%23FF6B00.svg?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
   </a>
 </p>
 
