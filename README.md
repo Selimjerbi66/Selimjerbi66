@@ -82,12 +82,12 @@ Passionate about **Cybersecurity**, **Innovation**, and **Continuous Learning**,
 
 ## 💻 Projects
 
-- **CyberAtaraxia Suite** — Cybersecurity Software Suite designed to assist ICT Engineers in their daily lives *(in progress)*
-- **CyberAtaraxia NIS2 Auditor** — Cybersecurity audit software ensuring NIS2 compliance for SMEs
-- **CCTV Network Simulation Software** — Developed during an internship at ImViA; analyzes camera setups to enhance connectivity and visual coverage
-- **Online Calculator** — Cloud computing project that sharpened full-stack coding skills
-- **Virtual Remote Control for Robotics** — Remote control for a Marty-type robot, merging software and hardware
-- **Birthday Attack Algorithm** — Web-interface explaining the Birthday Paradox and its application in cryptographic attacks
+- **[CyberAtaraxia Suite](https://github.com/Selimjerbi66/CyberAtaraxia-Suite)** — Cybersecurity Software Suite designed to assist ICT Engineers in their daily lives *(in progress)*
+- **[CyberAtaraxia NIS2 Auditor](https://github.com/Selimjerbi66/CyberAtaraxia-NIS2-Auditor)** — Cybersecurity audit software ensuring NIS2 compliance for SMEs
+- **[CCTV Network Simulation Software](https://github.com/Selimjerbi66/Stage-IMVIA)** — Developed during an internship at ImViA; analyzes camera setups to enhance connectivity and visual coverage
+- **[Native Cloud Calculator](https://github.com/Selimjerbi66/Native-Cloud-Calculator)** — Cloud computing project that sharpened full-stack coding skills
+- **[Marty Virtual Remote Control](https://github.com/Selimjerbi66/Marty-Virtual-Remote-Control)** — Remote control for a Marty-type robot, merging software and hardware
+- **[Birthday Attack Algorithm](https://github.com/Selimjerbi66/Birthday-Attack-Project)** — Web-interface explaining the Birthday Paradox and its application in cryptographic attacks
 - **PrestTeam** — *The Freelancing of Tomorrow* — A platform encouraging teamwork and easing entry into the professional world *(in development under Pépite BFC)*
 
 ---
