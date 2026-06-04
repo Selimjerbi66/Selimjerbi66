@@ -52,7 +52,7 @@
 
 ## 📌 About Me
 
-- 🔭 Currently working on **CyberAtaraxia** — a Cybersecurity Audit Software for NIS2 compliance in SMEs
+- 🔭 Currently working on **CyberAtaraxia Suite** — a free open source Cybersecurity Software Suite designed to assist ICT Engineers in their daily lives
 - 🏢 Cybersecurity Intern at **Axem Belgium** — Blue Teaming, IS Auditing & Network Administration
 - 🌱 Currently learning **Blue Team L1 · ISO27001/2022**
 - 💬 Ask me about **Blue Teaming · ICT Auditing · Network Configuration**
@@ -76,7 +76,8 @@ Engineering Student at **Polytech Dijon**, specializing in Cybersecurity. A life
 
 ## 💻 Projects
 
-- **CyberAtaraxia** — Cybersecurity audit software ensuring NIS2 compliance for SMEs *(in progress)*
+- **CyberAtaraxia Suite** — Cybersecurity Software Suite designed to assist ICT Engineers in their daily lives *(in progress)*
+- **CyberAtaraxia NIS2 Auditor** — Cybersecurity audit software ensuring NIS2 compliance for SMEs
 - **CCTV Network Simulation Software** — Developed during an internship at ImViA; analyzes camera setups to enhance connectivity and visual coverage
 - **Online Calculator** — Cloud computing project that sharpened full-stack coding skills
 - **Virtual Remote Control for Robotics** — Remote control for a Marty-type robot, merging software and hardware
