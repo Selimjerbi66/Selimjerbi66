@@ -128,7 +128,7 @@ Engineering Student at **Polytech Dijon**, specializing in Cybersecurity. A life
 
 ## 🎯 Goals
 
-- **Short-term**: Secure an internship in Cybersecurity Auditing
+- **Short-term**: Secure a Blue Team Cybersecurity job in 2027
 - **Long-term**: Join a major tech company's Network & Cybersecurity Department, while building entrepreneurial projects in parallel
 
 ---
