@@ -52,8 +52,8 @@
 
 ## 📌 About Me
 
-- 🔭 Currently working on **CyberAtaraxia Suite** — a free open source Cybersecurity Software Suite designed to assist ICT Engineers in their daily lives
-- 🏢 Cybersecurity Intern at **Axem Belgium** — Blue Teaming, IS Auditing & Network Administration
+- 🔭 Currently working on **[CyberAtaraxia Suite](https://github.com/Selimjerbi66/CyberAtaraxia-Suite)** — a free open source Cybersecurity Software Suite designed to assist ICT Engineers in their daily lives
+- 🏢 Cybersecurity Intern at **[Axem Belgium](https://www.axem.be/)** — Blue Teaming, IS Auditing & Network Administration
 - 🌱 Currently learning **Blue Team L1 · ISO27001/2022**
 - 💬 Ask me about **Blue Teaming · ICT Auditing · Network Configuration**
 - 🖥️ Experienced with self-hosted NAS (Nextcloud) and Type-1 Hypervisors (ESXi)
@@ -63,7 +63,13 @@
 
 ## 🎓 My Journey
 
-Engineering Student at **Polytech Dijon**, specializing in Cybersecurity. A lifelong learner taking extra courses in Networking and Cybersecurity while sharpening entrepreneurial and pitching skills. Currently pursuing CCNA and Cybersecurity Analyst certifications, with a strong foundation in Systems Management and Cloud Computing.
+Network & Cybersecurity Engineering student at ***Polytech Dijon*** with hands-on experience in **Blue Team operations**, **Security Auditing**, **Network Administration**, and **Infrastructure Management**.
+
+Currently a **Cybersecurity Intern** at ***Axem Belgium***, working on **Blue Teaming**, **ISO 27001:2022 & NIS2 audits**, and **Network Security projects**.
+
+Founder of **CyberAtaraxia Suite**, an *open-source cybersecurity toolkit* designed to support **SOC Analysts**, **Blue Teamers**, **GRC professionals**, and other cybersecurity practitioners.
+
+Passionate about **Cybersecurity**, **Innovation**, and **Continuous Learning**, currently pursuing ***Cisco CyberOps***, ***Blue Team Level 1 (BTL1)***, and ***ISO 27001:2022 Lead Auditor*** certifications.
 
 ## 🧠 Focus Areas
 
