@@ -126,9 +126,7 @@ Passionate about **Cybersecurity**, **Innovation**, and **Continuous Learning**,
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Selimjerbi66&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Selimjerbi66&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Selim's GitHub Trophies" />
-</p>
+
 
 ---
 
