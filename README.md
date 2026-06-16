@@ -148,6 +148,9 @@ Passionate about **Cybersecurity**, **Innovation**, and **Continuous Learning**,
   <a href="https://bsky.app/profile/selimj.bsky.social">
     <img src="https://img.shields.io/badge/BlueSky-%230077B5.svg?style=for-the-badge&logo=bluesky&logoColor=#01A6FF&color=00FFFF" alt="BlueSky" />
   </a>&nbsp;&nbsp;
+  <a href="https://x.com/CyberHigh4You">
+    <img src="https://img.shields.io/badge/TWITTER-%230077B5.svg?style=for-the-badge&logo=x&logoColor=#FFFFFF&color=1D9BF0" alt="x" />
+  </a>&nbsp;&nbsp;
   <a href="mailto:selimjerbi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Email" />
   </a>&nbsp;&nbsp;
