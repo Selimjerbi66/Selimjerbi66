@@ -145,6 +145,9 @@ Passionate about **Cybersecurity**, **Innovation**, and **Continuous Learning**,
   <a href="https://linkedin.com/in/selim-jerbi-b355a0202">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
+  <a href="https://bsky.app/profile/selimj.bsky.social">
+    <img src="https://img.shields.io/badge/BlueSky-%230077B5.svg?style=for-the-badge&logo=bluesky&logoColor=#01A6FF&color=00FFFF" alt="BlueSky" />
+  </a>&nbsp;&nbsp;
   <a href="mailto:selimjerbi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Email" />
   </a>&nbsp;&nbsp;
