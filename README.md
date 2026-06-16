@@ -148,6 +148,9 @@ Passionate about **Cybersecurity**, **Innovation**, and **Continuous Learning**,
 ## 🔗 Connect with Me
 
 <p align="center">
+  <a href="https://www.malt.com/profile/selimjerbi" target="_blank">
+    <img src="https://img.shields.io/badge/Malt-%23FC4B15.svg?style=for-the-badge&logo=malt&logoColor=%23FFFFFF&color=FC4B15" alt="Malt" />
+  </a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/selim-jerbi-b355a0202">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAgMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDEgMSAyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMGgtMTkuNUMxLjIzNSAwIDAgMS4yMiAwIDIuNzI3djE4LjU0NkMwIDIyLjc4IDEuMjM1IDI0IDIuNzI1IDI0aDE5LjVDMjMuNzcgMjQgMjQgMjIuNzggMjQgMjEuMjczVjIuNzI3QzI0IDEuMjIgMjMuNzcgMCAxOS41LjI1MHoiLz48L3N2Zz4=&logoColor=white&color=0A66C2" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
