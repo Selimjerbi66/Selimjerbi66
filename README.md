@@ -42,10 +42,18 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CCNA-1%2F3%20Acquired-brightgreen" alt="CCNA : 1/3 Acquired" />
-  <img src="https://img.shields.io/badge/Junior%20Cybersecurity%20Analyst-Acquired-brightgreen" alt="Junior Cybersecurity Analyst: Acquired" />
-  <img src="https://img.shields.io/badge/Prevention%20SUP%27-Acquired-brightgreen" alt="Prevention SUP': Acquired" />
-  <img src="https://img.shields.io/badge/SNEE-Acquired-brightgreen" alt="SNEE: Acquired" />
+  <a href="https://www.credly.com/badges/46c112d6-3f1c-41c6-ab35-5803e6f94fb8" target="_blank">
+    <img src="https://img.shields.io/badge/CCNA-1%2F3%20Acquired-brightgreen" alt="CCNA : 1/3 Acquired" />
+  </a>
+  <a href="https://www.credly.com/badges/c3a2511c-5322-4bda-918a-e36304ba2130" target="_blank">
+    <img src="https://img.shields.io/badge/Junior%20Cybersecurity%20Analyst-Acquired-brightgreen" alt="Junior Cybersecurity Analyst: Acquired" />
+  </a>
+  <a href="https://github.com/Selimjerbi66/Selimjerbi66/blob/main/Attestation_de_reusssite_Prevention_Sup.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Prevention%20SUP%27-Acquired-brightgreen" alt="Prevention SUP': Acquired" />
+  </a>
+  <a href="https://www.linkedin.com/posts/selim-jerbi-b355a0202_entrepreneuriat-snee-paezpitebfc-activity-7379856939633205248-UiIx" target="_blank">
+    <img src="https://img.shields.io/badge/SNEE-Acquired-brightgreen" alt="SNEE: Acquired" />
+  </a>
 </p>
 
 ---
@@ -141,16 +149,16 @@ Passionate about **Cybersecurity**, **Innovation**, and **Continuous Learning**,
 
 <p align="center">
   <a href="https://linkedin.com/in/selim-jerbi-b355a0202">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAgMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDEgMSAyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMGgtMTkuNUMxLjIzNSAwIDAgMS4yMiAwIDIuNzI3djE4LjU0NkMwIDIyLjc4IDEuMjM1IDI0IDIuNzI1IDI0aDE5LjVDMjMuNzcgMjQgMjQgMjIuNzggMjQgMjEuMjczVjIuNzI3QzI0IDEuMjIgMjMuNzcgMCAxOS41LjI1MHoiLz48L3N2Zz4=&logoColor=white&color=0A66C2" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="https://bsky.app/profile/selimj.bsky.social">
-    <img src="https://img.shields.io/badge/BlueSky-%230077B5.svg?style=for-the-badge&logo=bluesky&logoColor=#01A6FF&color=00FFFF" alt="BlueSky" />
+    <img src="https://img.shields.io/badge/BlueSky-%230077B5.svg?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF&color=0285FF" alt="BlueSky" />
   </a>&nbsp;&nbsp;
   <a href="https://x.com/CyberHigh4You">
-    <img src="https://img.shields.io/badge/TWITTER-%230077B5.svg?style=for-the-badge&logo=x&logoColor=#FFFFFF&color=1D9BF0" alt="x" />
+    <img src="https://img.shields.io/badge/TWITTER-%230077B5.svg?style=for-the-badge&logo=x&logoColor=%23FFFFFF&color=1D9BF0" alt="x" />
   </a>&nbsp;&nbsp;
   <a href="mailto:selimjerbi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="Email" />
   </a>&nbsp;&nbsp;
   <a href="https://www.credly.com/users/selim-jerbi/badges">
     <img src="https://img.shields.io/badge/Credly-%23FF6B00.svg?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
