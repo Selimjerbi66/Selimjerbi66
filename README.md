@@ -51,7 +51,7 @@
   <a href="https://github.com/Selimjerbi66/Selimjerbi66/blob/main/Attestation_de_reusssite_Prevention_Sup.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Prevention%20SUP%27-Acquired-brightgreen" alt="Prevention SUP': Acquired" />
   </a>
-  <a href="https://www.linkedin.com/posts/selim-jerbi-b355a0202_entrepreneuriat-snee-paezpitebfc-activity-7379856939633205248-UiIx" target="_blank">
+  <a href="https://github.com/Selimjerbi66/Selimjerbi66/blob/main/SNEE.pdf" target="_blank">
     <img src="https://img.shields.io/badge/SNEE-Acquired-brightgreen" alt="SNEE: Acquired" />
   </a>
 </p>
