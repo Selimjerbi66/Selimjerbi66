@@ -45,7 +45,7 @@
   <a href="https://www.credly.com/badges/46c112d6-3f1c-41c6-ab35-5803e6f94fb8" target="_blank">
     <img src="https://img.shields.io/badge/CCNA-1%2F3%20Acquired-brightgreen" alt="CCNA : 1/3 Acquired" />
   </a>
-  <a href="https://www.credly.com/badges/c3a2511c-5322-4bda-918a-e36304ba2130" target="_blank">
+  <a href="https://github.com/Selimjerbi66/Selimjerbi66/blob/main/certs/Junior_Cybersecurity_Analyst_Cert.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Junior%20Cybersecurity%20Analyst-Acquired-brightgreen" alt="Junior Cybersecurity Analyst: Acquired" />
   </a>
   <a href="https://github.com/Selimjerbi66/Selimjerbi66/blob/main/Attestation_de_reusssite_Prevention_Sup.pdf" target="_blank">
