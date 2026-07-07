@@ -18,6 +18,9 @@
   </a>&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/46c112d6-3f1c-41c6-ab35-5803e6f94fb8">
     <img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="CCNA: Introduction to Networks" width="100" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/Selimjerbi66/Selimjerbi66/tree/main/certs/BlueTeam">
+    <img src="https://d2y9h8w1ydnujs.cloudfront.net/assets/images/logo/v2/shield_neptune.svg" alt="Centri - BlueTeam Certifications" width="100" />
   </a>
 </p>
 <p align="center">
