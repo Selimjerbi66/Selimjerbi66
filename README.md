@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.credly.com/badges/46c112d6-3f1c-41c6-ab35-5803e6f94fb8" target="_blank">
+  <a href="https://github.com/Selimjerbi66/Selimjerbi66/blob/main/certs/CCNA-_Introduction_to_Networks_certificate_Cert.pdf" target="_blank">
     <img src="https://img.shields.io/badge/CCNA-1%2F3%20Acquired-brightgreen" alt="CCNA : 1/3 Acquired" />
   </a>
   <a href="https://github.com/Selimjerbi66/Selimjerbi66/blob/main/certs/Junior_Cybersecurity_Analyst_Cert.pdf" target="_blank">
