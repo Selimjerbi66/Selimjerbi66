@@ -52,7 +52,7 @@
     <img src="https://img.shields.io/badge/Junior%20Cybersecurity%20Analyst-Acquired-brightgreen" alt="Junior Cybersecurity Analyst: Acquired" />
   </a>
   <a href="https://github.com/Selimjerbi66/Selimjerbi66/blob/main/certs/Centri/Blue%20Team%20Junior%20Analyst%20Pathway%20Bundle-btja_cert.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Blue%20Team%20Junior%20Analyst-1%2F3%20Acquired-brightgreen" alt="Blue Team Junior Analyst: Acquired" />
+    <img src="https://img.shields.io/badge/Blue%20Team%20Junior%20Analyst-Acquired-brightgreen" alt="Blue Team Junior Analyst: Acquired" />
   </a>
   <a href="https://github.com/Selimjerbi66/Selimjerbi66/blob/main/Attestation_de_reusssite_Prevention_Sup.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Prevention%20SUP%27-Acquired-brightgreen" alt="Prevention SUP': Acquired" />
