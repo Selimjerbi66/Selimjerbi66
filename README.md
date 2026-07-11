@@ -97,6 +97,8 @@ Passionate about **Cybersecurity**, **Innovation**, and **Continuous Learning**,
 ## 💻 Projects
 
 - **[CyberAtaraxia Suite](https://github.com/Selimjerbi66/CyberAtaraxia-Suite)** — Cybersecurity Software Suite designed to assist ICT Engineers in their daily lives *(in progress)*
+- **[CyberAtaraxia ValeriA](https://github.com/Selimjerbi66/CyberAtaraxia-ValeriA)** — Free Open-Source Aternative to Open Web-UI, it requires Ollama and SeaXNG to be used *(prototype)*
+- **[CyberAtaraxia Training - BlueTeam](https://github.com/Selimjerbi66/CyberAtaraxia-Training-BlueTeam)** — Free Open-Source browser-based training application designed to help you prepare for the Blue Team Level 1 (BTL1)
 - **[CyberAtaraxia NIS2 Auditor](https://github.com/Selimjerbi66/CyberAtaraxia-NIS2-Auditor)** — Cybersecurity audit software ensuring NIS2 compliance for SMEs
 - **[CCTV Network Simulation Software](https://github.com/Selimjerbi66/Stage-IMVIA)** — Developed during an internship at ImViA; analyzes camera setups to enhance connectivity and visual coverage
 - **[Native Cloud Calculator](https://github.com/Selimjerbi66/Native-Cloud-Calculator)** — Cloud computing project that sharpened full-stack coding skills
