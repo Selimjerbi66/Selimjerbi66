@@ -13,11 +13,14 @@
 ---
 
 <p align="center">
+  <a href="https://www.credly.com/badges/46c112d6-3f1c-41c6-ab35-5803e6f94fb8">
+    <img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="CCNA: Introduction to Networks" width="100" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/c3a2511c-5322-4bda-918a-e36304ba2130">
     <img src="https://images.credly.com/size/340x340/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" alt="Junior Cybersecurity Analyst Career Path" width="100" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/46c112d6-3f1c-41c6-ab35-5803e6f94fb8">
-    <img src="https://images.credly.com/size/680x680/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="CCNA: Introduction to Networks" width="100" />
+  <a href="https://www.credly.com/badges/355c0721-4617-4e7b-944d-af9a2166c2ac">
+    <img src="https://images.credly.com/size/340x340/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" alt="Network Technician Career Path" width="100" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/Selimjerbi66/Selimjerbi66/tree/main/certs/Centri">
     <img src="https://d2y9h8w1ydnujs.cloudfront.net/assets/images/logo/v2/shield_neptune.svg" alt="Centri - BlueTeam Certifications" width="100" />
