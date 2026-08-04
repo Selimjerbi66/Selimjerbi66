@@ -171,7 +171,7 @@ Passionate about **Cybersecurity**, **Innovation**, and **Continuous Learning**,
   <a href="https://x.com/CyberHigh4You">
     <img src="https://img.shields.io/badge/TWITTER-%230077B5.svg?style=for-the-badge&logo=x&logoColor=%23FFFFFF&color=1D9BF0" alt="x" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:selimjerbi@gmail.com">
+  <a href="mailto:selimjerbi66@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="Email" />
   </a>&nbsp;&nbsp;
   <a href="https://www.credly.com/users/selim-jerbi/badges">
