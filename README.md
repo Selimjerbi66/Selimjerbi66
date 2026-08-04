@@ -26,26 +26,6 @@
     <img src="https://d2y9h8w1ydnujs.cloudfront.net/assets/images/logo/v2/shield_neptune.svg" alt="Centri - BlueTeam Certifications" width="100" />
   </a>
 </p>
-<p align="center">
-  <a href="https://www.credly.com/badges/3e28c407-e4eb-4cfd-88e8-ee16f2ee276d">
-    <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Cisco Introduction to Cybersecurity" width="100" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/e8f58d7e-add5-4bcd-86e8-e74fe60c2647">
-    <img src="https://images.credly.com/size/680x680/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Cisco Networking Basics" width="100" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/26fee337-1e2b-49ca-8912-583aa87c6b6a">
-    <img src="https://images.credly.com/size/340x340/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" alt="Network Defense" width="100" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/0bf6cfd0-787a-42f8-9091-3eaa4ba56630">
-    <img src="https://images.credly.com/size/340x340/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" alt="Endpoint Security" width="100" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/b906f5c3-2b71-4263-ba34-e259caa3b838">
-    <img src="https://images.credly.com/size/340x340/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png" alt="Networking Devices and Initial Configuration" width="100" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/2ae5245b-a6f7-49de-99b5-334ac5b447f5">
-    <img src="https://images.credly.com/size/340x340/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" alt="Cyber Threat Management" width="100" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/Selimjerbi66/Selimjerbi66/blob/main/certs/CCNA-_Introduction_to_Networks_certificate_Cert.pdf" target="_blank">
@@ -132,8 +112,32 @@ Passionate about **Cybersecurity**, **Innovation**, and **Continuous Learning**,
 ![VMware](https://img.shields.io/badge/VMware-%23607078.svg?style=for-the-badge&logo=vmware&logoColor=white) ![ESXi](https://img.shields.io/badge/ESXi-%23607078.svg?style=for-the-badge&logo=vmware&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ### Data & Design
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
+<p align="center">
+  <a href="https://www.credly.com/badges/3e28c407-e4eb-4cfd-88e8-ee16f2ee276d">
+    <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Cisco Introduction to Cybersecurity" width="100" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/e8f58d7e-add5-4bcd-86e8-e74fe60c2647">
+    <img src="https://images.credly.com/size/680x680/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Cisco Networking Basics" width="100" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/26fee337-1e2b-49ca-8912-583aa87c6b6a">
+    <img src="https://images.credly.com/size/340x340/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" alt="Network Defense" width="100" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/0bf6cfd0-787a-42f8-9091-3eaa4ba56630">
+    <img src="https://images.credly.com/size/340x340/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" alt="Endpoint Security" width="100" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/b906f5c3-2b71-4263-ba34-e259caa3b838">
+    <img src="https://images.credly.com/size/340x340/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png" alt="Networking Devices and Initial Configuration" width="100" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/2ae5245b-a6f7-49de-99b5-334ac5b447f5">
+    <img src="https://images.credly.com/size/340x340/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" alt="Cyber Threat Management" width="100" />
+  </a>
+</p>
+
 ---
+
 
 ## 📊 GitHub Stats
 
