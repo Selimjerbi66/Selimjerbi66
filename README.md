@@ -24,6 +24,9 @@
   </a>&nbsp;&nbsp;
   <a href="https://github.com/Selimjerbi66/Selimjerbi66/tree/main/certs/Centri">
     <img src="https://d2y9h8w1ydnujs.cloudfront.net/assets/images/logo/v2/shield_neptune.svg" alt="Centri - BlueTeam Certifications" width="100" />
+  </a>&nbsp;&nbsp;
+  <a href="https://blueteamlabs.online/public/badge/53/c79e33e4744dbc8272c3a8">
+    <img src="https://blueteamlabs.online/storage/badges/dQWxQtreWHqW2rc7SLoh.png" alt="Challenger V BTLO Badge" width="100" />
   </a>
 </p>
 
