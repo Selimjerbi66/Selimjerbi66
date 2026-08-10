@@ -191,6 +191,9 @@ Passionate about **Cybersecurity**, **Innovation**, and **Continuous Learning**,
   </a>&nbsp;&nbsp;
   <a href="https://www.credly.com/users/selim-jerbi/badges">
     <img src="https://img.shields.io/badge/Credly-%23FF6B00.svg?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
+  </a>&nbsp;&nbsp;
+  <a href="https://tryhackme.com/p/selimjerbi66">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white&color=212C42" alt="TryHackMe" />
   </a>
 </p>
 
