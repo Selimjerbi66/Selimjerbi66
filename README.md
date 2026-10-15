@@ -82,15 +82,16 @@ Passionate about **Cybersecurity**, **Innovation**, and **Continuous Learning**,
 
 ## 💻 Projects
 
-- **[CyberAtaraxia Suite](https://github.com/Selimjerbi66/CyberAtaraxia-Suite)** — Cybersecurity Software Suite designed to assist ICT Engineers in their daily lives *(in progress)*
-- **[CyberAtaraxia ValeriA](https://github.com/Selimjerbi66/CyberAtaraxia-ValeriA)** — Free Open-Source Aternative to Open Web-UI, it requires Ollama and SeaXNG to be used *(prototype)*
-- **[CyberAtaraxia Training - BlueTeam](https://github.com/Selimjerbi66/CyberAtaraxia-Training-BlueTeam)** — Free Open-Source browser-based training application designed to help you prepare for the Blue Team Level 1 (BTL1)
-- **[CyberAtaraxia NIS2 Auditor](https://github.com/Selimjerbi66/CyberAtaraxia-NIS2-Auditor)** — Cybersecurity audit software ensuring NIS2 compliance for SMEs
-- **[CCTV Network Simulation Software](https://github.com/Selimjerbi66/Stage-IMVIA)** — Developed during an internship at ImViA; analyzes camera setups to enhance connectivity and visual coverage
-- **[Native Cloud Calculator](https://github.com/Selimjerbi66/Native-Cloud-Calculator)** — Cloud computing project that sharpened full-stack coding skills
-- **[Marty Virtual Remote Control](https://github.com/Selimjerbi66/Marty-Virtual-Remote-Control)** — Remote control for a Marty-type robot, merging software and hardware
-- **[Birthday Attack Algorithm](https://github.com/Selimjerbi66/Birthday-Attack-Project)** — Web-interface explaining the Birthday Paradox and its application in cryptographic attacks
-- **PrestTeam** — *The Freelancing of Tomorrow* — A platform encouraging teamwork and easing entry into the professional world *(in development under Pépite BFC)*
+- **[CyberAtaraxia Suite](https://github.com/Selimjerbi66/CyberAtaraxia-Suite)** — Cybersecurity Software Suite designed to assist ICT Engineers in their daily lives. *(in progress)*
+- **[CyberAtaraxia Careers - SOC Analyst](https://github.com/Selimjerbi66/CyberAtaraxia-Careers-SOC-Analyst)** — CyberAtaraxia Careers - SOC Analyst is a walkthrough to set-up your own 14-day SOC Lab with a guided step-by-step Tutorial and a Journey LogBook to get into the details.
+- **[CyberAtaraxia ValeriA](https://github.com/Selimjerbi66/CyberAtaraxia-ValeriA)** — Free Open-Source Aternative to Open Web-UI, it requires Ollama and SeaXNG to be used. *(prototype)*
+- **[CyberAtaraxia Training - BlueTeam](https://github.com/Selimjerbi66/CyberAtaraxia-Training-BlueTeam)** — Free Open-Source browser-based training application designed to help you prepare for the Blue Team Level 1 (BTL1).
+- **[CyberAtaraxia NIS2 Auditor](https://github.com/Selimjerbi66/CyberAtaraxia-NIS2-Auditor)** — Cybersecurity audit software ensuring NIS2 compliance for SMEs.
+- **[CCTV Network Simulation Software](https://github.com/Selimjerbi66/Stage-IMVIA)** — Developed during an internship at ImViA; analyzes camera setups to enhance connectivity and visual coverage.
+- **[Native Cloud Calculator](https://github.com/Selimjerbi66/Native-Cloud-Calculator)** — Cloud computing project that sharpened full-stack coding skills.
+- **[Marty Virtual Remote Control](https://github.com/Selimjerbi66/Marty-Virtual-Remote-Control)** — Remote control for a Marty-type robot, merging software and hardware.
+- **[Birthday Attack Algorithm](https://github.com/Selimjerbi66/Birthday-Attack-Project)** — Web-interface explaining the Birthday Paradox and its application in cryptographic attacks.
+- **PrestTeam** — *The Freelancing of Tomorrow* — A platform encouraging teamwork and easing entry into the professional world. *(in development under Pépite BFC)*
 
 ---
 
